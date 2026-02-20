@@ -336,39 +336,5 @@ El patrón Builder es un patrón de diseño creacional que permite construir obj
 - El cliente depende de la abstracción (Builder)
 - No depende de detalles de construcción
 
-## 📖 Referencias
-
-- **Head First Design Patterns** - Freeman & Freeman
-- **Effective Java (3rd Edition)** - Joshua Bloch
-- **Design Patterns: Elements of Reusable Object-Oriented Software** - Gang of Four
-- **Clean Code** - Robert C. Martin
-
-## 👨‍💻 Autor
-
-**Javi**  
-Código: 20231020172  
-Estudiante de Ingeniería de Sistemas  
-Universidad Distrital Francisco José de Caldas
-
----
-
-## 📄 Licencia
-
-Este proyecto es de uso académico para la materia de Ingeniería de Software.
-
----
-
-## 🚀 Próximos Pasos
-
-Posibles extensiones del proyecto:
-
-1. Agregar más tipos de productos (bebidas, postres)
-2. Implementar persistencia de pedidos
-3. Crear interfaz gráfica
-4. Agregar sistema de precios
-5. Implementar patrón Factory para crear diferentes tipos de comidas
-
----
-
 **Última actualización:** 2024  
 **Versión:** 1.0.0
