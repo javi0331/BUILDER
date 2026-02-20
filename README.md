@@ -1,6 +1,6 @@
 # 🍔 PATRÓN BUILDER - SISTEMA DE HAMBURGUESAS
 
-**Estudiante:** Javi  
+**Estudiante:** Javier Rodríguez Rincón
 **Código:** 20231020172  
 **Universidad:** Universidad Distrital Francisco José de Caldas  
 **Materia:** Ingeniería de Software
